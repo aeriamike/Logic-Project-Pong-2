@@ -1,0 +1,4 @@
+Logic and Computer Design Fundamentals Project
+By: Monica Luna, Wenxuan Xie, and Karmen Young
+This file contains a project report, a demonstration video,
+a user contraint file, and the compressed project.
